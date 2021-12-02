@@ -21,7 +21,7 @@ img.dccon					{	max-height:100px; }
 
 @keyframes SubsAni { 50%	{ color:red; } }
 .chat_subscribe_box,
-.chat_cheer_box			{	text-align:center; 
+.chat_cheer_box			{	text-align:left; 
 											animation:SubsAni 6 1s ease; }
 
 .chat_cheer_text									{ color:red; display:inline-block; }
@@ -63,7 +63,7 @@ html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
 
 .chat_msg_box							{	white-space:pre-line; word-break:break-word;
 														max-height:100px; padding:0 0 5px 0; }
-.chat_msg_box.image_only	{	text-align:center; }
+.chat_msg_box.image_only	{	text-align:left; }
 
 
 .clip_included .chat_msg_box /* SOON DEPRECATED */

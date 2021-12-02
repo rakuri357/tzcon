@@ -16,9 +16,12 @@ Code - Download ZIP - 압축풀기
 
 
 ![image5](./images/readme/image5.png)  
-브라우저 소스 - 로컬 파일 - client.html 열기  
+송출프로그램 - 브라우저 소스 - 로컬 파일 체크 - client.html 열기  
 소스 사이즈는 350x300 추천  
-
+소스 가로길이를 조절해서 디시콘 최대 출력 개수를 변경할 수 있음  
+/theme/default/theme.css 에서 font-size:20px; color: white 변경으로 폰트 사이즈 변경할 수 있음  
+텍스트 없는 채팅에서 디시콘 중앙정렬하고싶으면 text-align:left을 text-align:center로 수정  
+OBS 소스 CSS에서 background-color: rgba(0, 0, 0, 0) 변경으로 소스 뒤 배경 넣을 수 있음, alpha값 0이 최소 1이 최대  
 
 
 
