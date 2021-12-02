@@ -1,26 +1,7 @@
-Bridge BBCC
-===
-version 0.5.5
+티지콘 목록 = 
+https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https%3A%2F%2Fopen-dccon-selector.update.sh%2Fapi%2Fconvert-dccon-url%3Ftype%3Dbridge_bbcc%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Frakuri357%2Ftzcon%2Fmain%2Flib%2Fdccon_list.js
 
 
 
-## Usage
-To compile browserified.js, use that on comandline
-(node, npm, and browserify required)
-```
-npm start
-```
-If you don't want to modify source files, just use released version.
-
-readme.txt 참조
-윈도우, XSplit 외의 환경에서 동작이 보증되지 않음
-
-
-## License
-MIT
-
-## Reference
-[JSAssist Open DCcon](https://github.com/rishubil/jsassist-open-dccon)
-By [rishubil](https://github.com/rishubil) MIT License.
-
-[Twitch Developer Documentation](https://dev.twitch.tv/docs)
+자세한내용 =
+https://rakuri53.blogspot.com/2021/12/httpsgithub.html
