@@ -18,12 +18,6 @@ Code - Download ZIP - 압축풀기
 ![image5](./images/readme/image5.png)  
 송출프로그램 - 브라우저 소스 - 로컬 파일 체크 - client.html 열기  
 소스 사이즈는 350x300 추천  
-소스 가로길이를 조절해서 디시콘 최대 출력 개수를 변경할 수 있음, 디시콘 크기는 100px  
-/theme/default/theme.css 에서 font-size:20px; color: white 변경으로 폰트 사이즈 변경할 수 있음  
-원하는 폰트도 추가가능, 텍스트 배경 그림자도 수정 가능  
-텍스트 없는 채팅에서 디시콘 중앙정렬하고싶으면 text-align:left을 text-align:center로 수정  
-OBS 소스 CSS에서 background-color: rgba(0, 0, 0, 0) 변경으로 소스 뒤 배경 넣을 수 있음, alpha값 0이 최소 1이 최대  
-변경사항 즉시 적용하려면 캐시 새로고침  
   
   
 
@@ -67,6 +61,12 @@ OBS 소스 CSS에서 background-color: rgba(0, 0, 0, 0) 변경으로 소스 뒤 
 채팅창에서 명령어로 간단하게 설정 바꿀 수 있음  
 !!scale 명령어로 채팅창 크기 변경 가능, 100이 기본값  
 !!theme 명령어로 채팅창 테마 변경 가능, theme 폴더 안에 있는 테마 폴더들 이름 적용, default가 기본값  
+송출 프로그램에서 소스 가로길이를 조절해서 디시콘 최대 출력 개수를 변경할 수 있음, 디시콘 크기는 100px  
+/theme/default/theme.css 에서 font-size:20px; color: white 변경으로 폰트 사이즈 변경할 수 있음  
+텍스트 없는 채팅에서 디시콘 중앙정렬하고싶으면 text-align:left을 text-align:center로 수정  
+config.js에서 personalColor : true 로 바꾸면 채팅창 닉네임 색깔 넣을 수 있음
+OBS 소스 CSS에서 background-color: rgba(0, 0, 0, 0) 변경으로 소스 뒤 배경 넣을 수 있음, alpha값은 0이 최소, 1이 최대  
+변경사항 즉시 적용하려면 송출 프로그램에서 소스 캐시 새로고침  
 
 
 
